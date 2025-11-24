@@ -1,16 +1,16 @@
 # Request For Proposal 
 ## Wireless Infrastructure Deployment Project
 
-**Issued By:** NovaWave Digital Services  
-**Contact:** info@novawave.ca  
+**Issued By:** Sandhu Industries  
+**Contact:** simranjitkaur7@student.mitt.ca
 **Date Issued:** November 22, 2025  
 
 ### About us
-- NovaWave Digital Services is growing and it needs a secure, reliable, and high-performance wireless network to support its expanding team and daily operations. 
-- This proposal invites experienced providers to design, install, and maintain a wireless solution which delivers coverage, solid security, and the ability to grow with the organization.
+- Sandhu Industries is growing and it needs a secure, reliable, and high-performance wireless network to support its expanding team and daily operations. 
+- This proposal invites experienced providers to design, install, and maintain a wireless solution which delivers coverage, security, ability to grow with the organization.
 
 # 1. Project Overview
-NovaWave uses cloud services and mobile tools every day,that's why having a strong and reliable wireless network is important. To improve performance, the company needs a well-planned wireless setup which offers:
+Sandhu industries uses cloud services and mobile tools every day,that's why having a strong and reliable wireless network is important. To improve performance, the company needs a well-planned wireless setup which offers:
 - Strong and consistent coverage.
 - It support many devices at the same time.
 - Strong level security.
@@ -22,7 +22,7 @@ The selected provider will manage the whole project from the first assessment to
 
 ### 2.1 Checking the Workplace Setup
 - The service provider will begin by examining the entire office environment to understand the wireless requirements.
-- This includes checking current signal levels, identify the weak areas, and noticed any potential interference.
+- This includes checking current signal levels and noticing any potential interference.
 - A plan recommended Access Point locations with coverage maps that must be included.
 - A final report must be submitted which explains the findings and outlines that recommended improvements.
 
