@@ -2,7 +2,7 @@
 ## Wireless Infrastructure Deployment Project
 
 **Issued By:** Sandhu Industries  
-**Contact:** simranjitkaur7@student.mitt.ca
+**Contact:** simranjitkaur7@student.mitt.ca\
 **Date Issued:** November 22, 2025  
 
 ### About us
